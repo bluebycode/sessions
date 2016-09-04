@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="ActorSessions.csproj">
+  <MonoDevelop.Ide.ItemProperties.ActorSessions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="app.config">
+    <Files>
+      <File FileName="SessionFactoryActor.cs" Line="6" Column="1" />
+      <File FileName="Settings.cs" Line="28" Column="14" />
+      <File FileName="app.config" Line="24" Column="14" />
+      <File FileName="Session/Session.cs" Line="10" Column="6" NotebookId="1" />
+      <File FileName="Launcher.cs" Line="50" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ActorSessions" expanded="True">
+            <Node name="ActorSessions" expanded="True" selected="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Session" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
